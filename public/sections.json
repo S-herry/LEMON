@@ -1,0 +1,247 @@
+[
+  {
+    "id": "ECD",
+    "title": "ECD",
+    "bedType": 1,
+    "inventory": [2, 0, 1, 2, 0, 2, 0, 0, 1, 2, 1, 2, 1, 1],
+    "info": [
+      {
+        "id": "info1",
+        "roomType": "Speed",
+        "roomNumber": "102",
+        "status": "dirty",
+        "bookings": [
+          {
+            "id": "id1",
+            "name": "Apple",
+            "phone": "0970412121",
+            "startDate": "2024-05-18",
+            "endDate": "2024-05-19",
+            "bookingMode": "Individual",
+            "bookingStatus": "future"
+          },
+          {
+            "id": "id2",
+            "name": "Trista",
+            "phone": "09704",
+            "startDate": "2024-05-28",
+            "endDate": "2024-05-30",
+            "bookingMode": "Individual",
+            "bookingStatus": "Check out"
+          },
+          {
+            "id": "id3",
+            "name": "Trista",
+            "phone": "09704",
+            "startDate": "2024-05-22",
+            "endDate": "2024-05-23",
+            "bookingMode": "Individual",
+            "bookingStatus": "Check out"
+          }
+        ]
+      },
+      {
+        "id": "info2",
+        "roomType": "Speed",
+        "roomNumber": "104",
+        "status": "dirty",
+        "bookings": [
+          {
+            "id": "text1",
+            "name": "Apple",
+            "phone": "0970412121",
+            "startDate": "2024-05-25",
+            "endDate": "2024-05-26",
+            "bookingMode": "Individual",
+            "bookingStatus": "future"
+          },
+          {
+            "id": "text2",
+            "name": "Trista",
+            "phone": "09704",
+            "startDate": "2024-05-19",
+            "endDate": "2024-05-21",
+            "bookingMode": "Individual",
+            "bookingStatus": "Check out"
+          }
+        ]
+      },
+      {
+        "id": "info3",
+        "roomType": "Speed",
+        "roomNumber": "202",
+        "status": "clean",
+        "bookings": [
+          {
+            "id": "id9",
+            "name": "Apple",
+            "phone": "0970412121",
+            "startDate": "2024-05-25",
+            "endDate": "2024-05-26",
+            "bookingMode": "Individual",
+            "bookingStatus": "future"
+          },
+          {
+            "id": "id10",
+            "name": "Trista",
+            "phone": "09704",
+            "startDate": "2024-05-19",
+            "endDate": "2024-05-21",
+            "bookingMode": "Individual",
+            "bookingStatus": "Check out"
+          },
+          {
+            "id": "id11",
+            "name": "Trista",
+            "phone": "09704",
+            "startDate": "2024-05-22",
+            "endDate": "2024-05-23",
+            "bookingMode": "Individual",
+            "bookingStatus": "Check out"
+          }
+        ]
+      },
+      {
+        "id": "info4",
+        "roomType": "Speed",
+        "roomNumber": "204",
+        "status": "clean",
+        "bookings": [
+          {
+            "id": "id99",
+            "name": "Apple",
+            "phone": "0970412121",
+            "startDate": "2024-05-21",
+            "endDate": "2024-05-25",
+            "bookingMode": "Individual",
+            "bookingStatus": "future"
+          },
+          {
+            "id": "id98",
+            "name": "Trista",
+            "phone": "09704",
+            "startDate": "2024-05-20",
+            "endDate": "2024-05-21",
+            "bookingMode": "Individual",
+            "bookingStatus": "Check out"
+          },
+          {
+            "id": "id97",
+            "name": "Trista",
+            "phone": "09704",
+            "startDate": "2024-05-26",
+            "endDate": "2024-05-27",
+            "bookingMode": "Individual",
+            "bookingStatus": "Check out"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "STD",
+    "title": "STD",
+    "name": "Speed 104",
+    "bedType": 1,
+    "inventory": [2, 0, 1, 2, 0, 2, 0, 0, 1, 2, 1, 2, 1, 1],
+    "info": [
+      {
+        "id": "info5",
+        "roomType": "dirty",
+        "roomNumber": "216",
+        "status": "clean",
+        "bookings": [
+          {
+            "id": "id6",
+            "name": "Apple",
+            "phone": "0970412121",
+            "startDate": "2024-05-25",
+            "endDate": "2024-05-28",
+            "bookingMode": "Group",
+            "bookingStatus": "future"
+          },
+          {
+            "id": "id45",
+            "name": "Apple",
+            "phone": "0970412121",
+            "startDate": "2024-05-22",
+            "endDate": "2024-05-23",
+            "bookingMode": "Group",
+            "bookingStatus": "future"
+          },
+          {
+            "id": "id57",
+            "name": "Apple",
+            "phone": "0970412121",
+            "startDate": "2024-05-29",
+            "endDate": "2024-05-30",
+            "bookingMode": "Group",
+            "bookingStatus": "future"
+          }
+        ]
+      },
+      {
+        "id": "info87",
+        "roomType": "dirty",
+        "roomNumber": "218",
+        "status": "clean",
+        "bookings": [
+          {
+            "id": "id11",
+            "name": "Apple",
+            "phone": "0970412121",
+            "startDate": "2024-05-24",
+            "endDate": "2024-05-25",
+            "bookingMode": "Group",
+            "bookingStatus": "future"
+          },
+
+          {
+            "id": "id52",
+            "name": "Apple",
+            "phone": "0970412121",
+            "startDate": "2024-05-25",
+            "endDate": "2024-05-28",
+            "bookingMode": "Group",
+            "bookingStatus": "future"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "FAM",
+    "title": "FAM",
+    "name": "Speed 104",
+    "bedType": 1,
+    "inventory": [2, 0, 1, 2, 0, 2, 0, 0, 1, 2, 1, 2, 1, 1],
+    "info": [
+      {
+        "id": "info6",
+        "roomType": "dirty",
+        "roomNumber": "102",
+        "status": "clean",
+        "bookings": [
+          {
+            "id": "id5",
+            "name": "Apple",
+            "phone": "0970412121",
+            "startDate": "2024-05-18",
+            "endDate": "2024-05-19",
+            "bookingMode": "Individual",
+            "bookingStatus": "Check in"
+          },
+          {
+            "id": "id100",
+            "name": "Apple",
+            "phone": "0970412121",
+            "startDate": "2024-05-25",
+            "endDate": "2024-05-28",
+            "bookingMode": "Group",
+            "bookingStatus": "future"
+          }
+        ]
+      }
+    ]
+  }
+]
